@@ -80,7 +80,7 @@ const Contact = () => {
               {/* placeholder for google map */}
               <div className='w-full h-64 bg-gray-300 rounded-lg'>
               <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3682.1184728450626!2d88.32013047600044!3d22.649371030150828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d552f1bcc7d6f4f%3A0xd255053387b8dc4a!2sWebelite%20Builders!5e0!3m2!1sen!2sin!4v1734422195742!5m2!1sen!2sin" 
+              src="https://maps.app.goo.gl/9K2qKz6h33VWJwdY8" 
               className='w-full h-full rounded-lg'
                width="600" 
                height="450" 

@@ -80,7 +80,7 @@ const Contact = () => {
               {/* placeholder for google map */}
               <div className='w-full h-64 bg-gray-300 rounded-lg'>
               <iframe 
-              src="https://maps.app.goo.gl/9K2qKz6h33VWJwdY8" 
+              src="https://www.google.com/maps/place/Vinayaka+Mission's+Kirupananda+Variyar+Engineering+College/@11.5786715,78.0114406,14z/data=!4m10!1m2!2m1!1svmkv!3m6!1s0x3babe4441ef6785f:0x87ecc27c93207ffc!8m2!3d11.5786715!4d78.0495494!15sCgR2bWt2WgYiBHZta3aSAQdjb2xsZWdlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU4yTW04dGNWRlJFQUXgAQD6AQQIABAk!16s%2Fg%2F1hm30g99m?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" 
               className='w-full h-full rounded-lg'
                width="600" 
                height="450" 

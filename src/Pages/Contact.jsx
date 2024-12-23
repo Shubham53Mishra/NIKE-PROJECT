@@ -80,7 +80,7 @@ const Contact = () => {
               {/* placeholder for google map */}
               <div className='w-full h-64 bg-gray-300 rounded-lg'>
               <iframe 
-              src="https://www.google.com/maps/place/Vinayaka+Mission's+Kirupananda+Variyar+Engineering+College/@11.5786715,78.0114406,14z/data=!4m10!1m2!2m1!1svmkv!3m6!1s0x3babe4441ef6785f:0x87ecc27c93207ffc!8m2!3d11.5786715!4d78.0495494!15sCgR2bWt2WgYiBHZta3aSAQdjb2xsZWdlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU4yTW04dGNWRlJFQUXgAQD6AQQIABAk!16s%2Fg%2F1hm30g99m?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31269.005209323615!2d78.0114405743164!3d11.578671500000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3babe4441ef6785f%3A0x87ecc27c93207ffc!2sVinayaka%20Mission&#39;s%20Kirupananda%20Variyar%20Engineering%20College!5e0!3m2!1sen!2sin!4v1734970436978!5m2!1sen!2sin " 
               className='w-full h-full rounded-lg'
                width="600" 
                height="450" 
